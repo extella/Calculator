@@ -4,7 +4,10 @@ A simple calculator made with Java.
 # Limitations
 Basic calculations are entered into the calculator in exactly the same order as they are written on paper. Although, the program is only limited to two numbers. The operations the program can handle are only addition, subtraction, multiplication, and division. 
 
-# Instructions
+# How to use
+The program can be compiled and run on any IDE that has Java support. The user is required to have Java pre-installed on their computer as well. The program can also be turned in to a .JAR file should they want to run it directly, but that is beyond this documentation.
+
+# How to use
 A user is expected to input two numbers to get values from by either adding, subtracting, multiplying, and dividing them while following the rules of their respective operations.
 
 The flow is as follows:
