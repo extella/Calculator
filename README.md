@@ -13,8 +13,7 @@ A user is expected to input two numbers to get values from by either adding, sub
 The flow is as follows:
 1. User inputs in the first field.
 2. User inputs in the second field.
-3. User chooses which operation to use by clicking on its respective operand. 
-  ("+" for addition, "-" for subtraction, "*" for multiplication, and "/" for division)
+3. User chooses which operation to use by clicking on its respective operand ("+" for addition, "-" for subtraction, "*" for multiplication, and "/" for division).
 4. User is shown calculated value. 
 
 # Error handling
